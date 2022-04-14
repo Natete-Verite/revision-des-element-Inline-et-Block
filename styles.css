@@ -1,0 +1,17 @@
+h1{
+    border:solid 2px black;
+    padding: 20px;
+}
+span{
+    border:solid 1px blue;
+}
+.heading{
+    color: rgb(109, 109, 86);
+}
+#text-one{
+    font-size: 30px;
+}
+.active{
+    font-style: italic;
+    color: #653636;
+}
